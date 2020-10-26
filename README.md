@@ -1,6 +1,6 @@
 # Financial-Analysis
 Financial Analysis for a case study (Southern Water Corp) and assesing Revenues, Production Cost, Other Production Costs, Assets, EBIT
-[Vale Driver Tree](#value-driver-tree)
+[Value Driver Tree](#value-driver-tree)
 
 ## Problem Statement
 
@@ -25,8 +25,7 @@ The management has asked to provide accountability and a detailed breakdown for 
 
 
 ## 
-
-Vale Driver Tree
+Value Driver Tree
 
 
 
