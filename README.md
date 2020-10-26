@@ -33,9 +33,9 @@ The management has asked to provide accountability and a detailed breakdown for 
 
 ## Charts & Numbers
 
-- [Line & Waterfall Chart for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
-- [Line Charts, Variance Analysis for Costs](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
-- [Line & Waterfall Chart for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
+- [Line & Waterfall Chart for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Revenue)
+- [Line Charts, Variance Analysis for Costs](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs)
+- [Line & Waterfall Chart for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#EBIT)
 
 ## Presentation
 
