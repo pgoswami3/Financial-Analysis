@@ -3,7 +3,7 @@ Financial Analysis for a case study (Southern Water Corp) and assesing Revenues,
 
 - [Problem Statement](#problem-statement)
 - [Value Driver Tree](#value-driver-tree)
-- [Charts & Numbers](#charts-and-numbers)
+- [Charts & Numbers](#charts-&-numbers)
 - [Presentation](#presentation)
 
 ## Problem Statement
@@ -33,7 +33,7 @@ The management has asked to provide accountability and a detailed breakdown for 
 
 ## Charts & Numbers
 
-- [Line & Waterfall Chart for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Revenue)
+- [Line & Waterfall Chart for Revenue [in detail for individual plants]](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Revenue)
 
 <p align="center">
   <img 
@@ -43,7 +43,7 @@ The management has asked to provide accountability and a detailed breakdown for 
   />
 </p>
 
-- [Line Charts, Variance Analysis for Costs](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs)
+- [Line Charts, Variance Analysis for Costs [in detail for individual plants]](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs)
 
 
 <p align="center">
@@ -54,7 +54,7 @@ The management has asked to provide accountability and a detailed breakdown for 
   />
 </p>
 
-- [Line & Waterfall Chart for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#EBIT)
+- [Line & Waterfall Chart for EBIT [in detail for individual plants]](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#EBIT)
 
 
 <p align="center">
@@ -82,9 +82,19 @@ EBIT |	Earnings Before Interest and Tax. Calculated as Revenues - COGS (Producti
 Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overheads) / Total Water Production
 
 
-
 ## Economies
 
+- As we have numbers for 2013-14 Actual Costs V/s. Budgeted Costs, we can do find the variance where we can find major dent in our expenses
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/variance.png"
+    width="1850" 
+    height="400" 
+  />
+</p>
+
+- Projecting 
 
 
 ## Presentation
