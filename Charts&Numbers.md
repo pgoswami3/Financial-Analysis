@@ -72,7 +72,7 @@ The EBIT Actual vs budget charts for 2013-2014 shows an increasing trend in EBIT
   />
 </p>
 
-Individual Plants
+**Individual Plants**
 
 Kootha’s Actual EBIT numbers were much better than they were forecasted for Sept, Oct 2013 where it followed the budget numbers for the rest of time except June 2014, where less revenue and high overhead costs dipped the numbers by 26%
 
