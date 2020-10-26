@@ -89,3 +89,4 @@ Jutik’s Actual EBIT numbers stayed below the budget number throughout the give
   />
 </p>
 
+The chart explains the fluctuation in the EBIT (Earning Before Interest & Tax) for the SW corp. for a given period (July 2013 - June 2014) of time. The columns in blue represents positive EBIT of the SW corp. where the generated earnings supersede the budget numbers. Despite having Variance for 7 months with negative EBIT, revenue total from Aug, Sept and Oct 2013 saves the total of the variance analysis [$4,305,479.94] with positive numbers.
