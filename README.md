@@ -1,6 +1,10 @@
 # Financial-Analysis
 Financial Analysis for a case study (Southern Water Corp) and assesing Revenues, Production Cost, Other Production Costs, Assets, EBIT
-[Value Driver Tree](#value-driver-tree)
+
+- [Problem Statement](#ps)
+- [Value Driver Tree](#value-driver-tree)
+- [Charts & Numbers](#c&n)
+- [Presentation](#preso)
 
 ## Problem Statement
 
@@ -21,10 +25,18 @@ The management has asked to provide accountability and a detailed breakdown for 
 - Year-to-Date Variance Analysis for actual and budget figures
 - Cost to produce (CTP) drivers
 
-## SW Revenues Value Driver Tree
-
-
 ## Value Driver Tree
 
+[Value Driver Tree for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
+[Value Driver Tree for Cost](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
+[Value Driver Tree for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
+
+## Charts & Numbers
+
+[Line & Waterfall Chart for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
+[Line Charts, Variance Analysis for Costs](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
+[Line & Waterfall Chart for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
+
+## Presentation
 
 
