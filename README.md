@@ -24,8 +24,7 @@ The management has asked to provide accountability and a detailed breakdown for 
 ## SW Revenues Value Driver Tree
 
 
-## 
-Value Driver Tree
+## Value Driver Tree
 
 
 
