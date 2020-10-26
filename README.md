@@ -1,10 +1,10 @@
 # Financial-Analysis
 Financial Analysis for a case study (Southern Water Corp) and assesing Revenues, Production Cost, Other Production Costs, Assets, EBIT
 
-- [Problem Statement](#ps)
+- [Problem Statement](#problem-statement)
 - [Value Driver Tree](#value-driver-tree)
-- [Charts & Numbers](#c&n)
-- [Presentation](#preso)
+- [Charts & Numbers](#charts-and-numbers)
+- [Presentation](#presentation)
 
 ## Problem Statement
 
@@ -34,8 +34,58 @@ The management has asked to provide accountability and a detailed breakdown for 
 ## Charts & Numbers
 
 - [Line & Waterfall Chart for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Revenue)
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/revenue(all).png"
+    width="1850" 
+    height="300" 
+  />
+</p>
+
 - [Line Charts, Variance Analysis for Costs](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs)
+
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/ctp(all).png"
+    width="1850" 
+    height="300" 
+  />
+</p>
+
 - [Line & Waterfall Chart for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#EBIT)
+
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/ebit(all).png"
+    width="1850" 
+    height="400" 
+  />
+</p>
+
+
+## Excel Workbook
+
+[Excel Workbook Snapshot 1](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/costcentre-actuals.png)
+
+[Excel Workbook Snapshot 2](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/financial-actuals.png)
+
+Definitions | SW Corp
+--- | ---
+Revenues |	Revenues generated through Sales of Water to Residential, Public and Private Corporations and Individuals
+Production Cost |	Costs associated with producing desalinated water
+Other Production Costs | Costs associated with 'Other' Production Costs as opposed to pure desalination watering costs
+Assets	| Assets owned by Southern Water Corp Financials. Assets = Owners Equity + Liabilities
+EBIT |	Earnings Before Interest and Tax. Calculated as Revenues - COGS (Production Costs) - Overheads 
+Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overheads) / Total Water Production
+
+
+
+## Economies
+
+
 
 ## Presentation
 
