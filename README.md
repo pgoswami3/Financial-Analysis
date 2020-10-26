@@ -27,15 +27,15 @@ The management has asked to provide accountability and a detailed breakdown for 
 
 ## Value Driver Tree
 
-[Value Driver Tree for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
-[Value Driver Tree for Cost](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
-[Value Driver Tree for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
+- [Value Driver Tree for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
+- [Value Driver Tree for Cost](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
+- [Value Driver Tree for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md/EBIT)
 
 ## Charts & Numbers
 
-[Line & Waterfall Chart for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
-[Line Charts, Variance Analysis for Costs](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
-[Line & Waterfall Chart for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
+- [Line & Waterfall Chart for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
+- [Line Charts, Variance Analysis for Costs](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
+- [Line & Waterfall Chart for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md)
 
 ## Presentation
 
