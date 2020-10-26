@@ -27,9 +27,9 @@ The management has asked to provide accountability and a detailed breakdown for 
 
 ## Value Driver Tree
 
-- [Value Driver Tree for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
-- [Value Driver Tree for Cost](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md)
-- [Value Driver Tree for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md/EBIT)
+- [Value Driver Tree for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md#Revenue)
+- [Value Driver Tree for Cost](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md#Costs)
+- [Value Driver Tree for EBIT](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md#EBIT)
 
 ## Charts & Numbers
 
