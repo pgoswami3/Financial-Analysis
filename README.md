@@ -67,22 +67,6 @@ Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overhead
 [Excel Workbook Snapshot 4](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/financial-forecast.png)
 
 
-## Forecast
-
-- As we have numbers for 2013-14 Actual Costs V/s. Budgeted Costs, we can find the [variance](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs) to find major expenses/cost. While based on Forecast data for 2014-15 we can project rolling year-to-date cost-to-produce $/Mega-Litre of water for all the plants
-
-<p align="center">
-  <img 
-    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/ctp-forecast.png"
-    width="1850" 
-    height="400" 
-  />
-</p>
-
-
-Industry Cost Curve : Based on available data (market demand, market price and excess capacity), the cost needed of the next unit unrequired capacity to supply the market cost of the last required incremental capacity to supply the market would be.
-
-Forecast Cost to Produce Pseudo Cost Curve
 
 Cost to Produce	| Total Production Costs (Production Costs, Other Production Costs)	| Total Overhead Costs	| Total Water Production (Mega-Litres)	| $/Mega-Litre
 --- | --- | --- | --- | --- 
@@ -98,10 +82,95 @@ Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
 <p align="center">
   <img 
     src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Slide-1.png"
-    width="1850" 
+    width="850" 
     height="650" 
   />
 </p>
 
+2. As we have numbers for 2013-14 Actual Costs V/s. Budgeted Costs, we can find the [variance](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs) to find major expenses/cost. While based on Forecast data for 2014-15 we can project rolling year-to-date cost-to-produce $/Mega-Litre of water for all the plants
 
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Slide-2.png"
+    width="850" 
+    height="650" 
+  />
+</p>
 
+3. Cost to Produce Pseudo Cost Curve
+
+Industry Cost Curve : Based on available data (market demand, market price and excess capacity), the cost needed of the next unit unrequired capacity to supply the market cost of the last required incremental capacity to supply the market would be.
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Slide-3.png"
+    width="850" 
+    height="650" 
+  />
+</p>
+
+4. Supporting Slide : Revenue Analysis
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Supporting-1.png"
+    width="850" 
+    height="650" 
+  />
+</p>
+
+5. Supporting Slide : COGS Analysis
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Supporting-2.png"
+    width="850" 
+    height="650" 
+  />
+</p>
+
+6. Supporting Slide : Overhead Costs Analysis
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Supporting-3.png"
+    width="850" 
+    height="650" 
+  />
+</p>
+
+7. Revenue, COGS, Overhead Costs breakdown 
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Cost.png"
+    width="850" 
+    height="650" 
+  />
+</p>
+
+8. Forecast
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Forecast.png"
+    width="850" 
+    height="650" 
+  />
+</p>
+
+9. Action Plan
+
+- What?
+
+  - 2014-15 Forecast indicates high Plant Maintenance and Operation Costs. As well as a significant drop in revenue stream and an increase in Overhead Costs.
+
+- Why?
+
+  - Increasing water demand, household and commercially, is causing a great stress to Machinery and Pump Failures results in a temporary halt / delay in production.
+
+- How?
+
+  - For 2013-14 Actual V/s. Budget reporting data, we can use the COGS savings ($3M) and the Revenue collection ($16M) to use as a buffer for 2014-15.
+
+  - Another additional $15-20M could be spare as a cushion to handle the impact in 2014-15 for Kootha and Surjek Plants. (The forecasting data suggests that our EBIT (Earning Before Interest & Tax) will break-even for Jutik Plant).
