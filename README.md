@@ -1,11 +1,15 @@
 # Financial-Analysis
-Financial Analysis for a case study (Southern Water Corp) and assessing Revenues, Production Cost, Other Production Costs, Assets, EBIT
+Financial Analysis for a case study (Southern Water Corp) and assessing Revenues, Production Cost, Other Production Costs, Assets, and EBIT
 
 - [Problem Statement](#problem-statement)
+- [Context](context)
+- [Criteria for success](#Criteria-for-success)
+- [Scope of solution space](#Scope-of-solution-space)
 - [Definitions](#definitions)
 - [Value Driver Tree](#value-driver-tree)
-- [Charts & Numbers](#charts-&-numbers)
-- [Presentation](#presentation)
+- [Charts & Numbers](#Charts-&-Numbers)
+- [Excel Workbook](#Excel-Workbook)
+- [Executive Slide Dec](#Executive-Slide-Dec)
 
 ## Problem Statement
 
@@ -67,7 +71,7 @@ Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overhead
 [Excel Workbook Snapshot 4](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/financial-forecast.png)
 
 
-## Slide Deck
+## Executive Slide Dec
 
 1. **Problem Statement & Overview of SW Corps**
 
