@@ -67,17 +67,9 @@ Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overhead
 [Excel Workbook Snapshot 4](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/financial-forecast.png)
 
 
-
-Cost to Produce	| Total Production Costs (Production Costs, Other Production Costs)	| Total Overhead Costs	| Total Water Production (Mega-Litres)	| $/Mega-Litre
---- | --- | --- | --- | --- 
-Kootha |	$8,809,523.74	| $65,811,073.32	| 1,328.89	| $56.15
-Surjek |	$21,086,188.80 |	$217,042,677.14	| 2,064.70	| $115.33
-Jutik	| $7,460,267.66	| $73,305,778.20	| 2,096.68	| $38.52
-Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
-
 ## Presentation
 
-1. Problem Statement & Overview of SW Corps
+1. **Problem Statement & Overview of SW Corps**
 
 <p align="center">
   <img 
@@ -97,9 +89,17 @@ Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
   />
 </p>
 
-3. Cost to Produce Pseudo Cost Curve
+3. **Cost to Produce Pseudo Cost Curve**
 
 Industry Cost Curve : Based on available data (market demand, market price and excess capacity), the cost needed of the next unit unrequired capacity to supply the market cost of the last required incremental capacity to supply the market would be.
+
+Cost to Produce	| Total Production Costs (Production Costs, Other Production Costs)	| Total Overhead Costs	| Total Water Production (Mega-Litres)	| $/Mega-Litre
+--- | --- | --- | --- | --- 
+Kootha |	$8,809,523.74	| $65,811,073.32	| 1,328.89	| $56.15
+Surjek |	$21,086,188.80 |	$217,042,677.14	| 2,064.70	| $115.33
+Jutik	| $7,460,267.66	| $73,305,778.20	| 2,096.68	| $38.52
+Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
+
 
 <p align="center">
   <img 
@@ -109,7 +109,7 @@ Industry Cost Curve : Based on available data (market demand, market price and e
   />
 </p>
 
-4. Supporting Slide : Revenue Analysis
+4. **Supporting Slide : Revenue Analysis**
 
 <p align="center">
   <img 
@@ -119,7 +119,7 @@ Industry Cost Curve : Based on available data (market demand, market price and e
   />
 </p>
 
-5. Supporting Slide : COGS Analysis
+5. **Supporting Slide : COGS Analysis**
 
 <p align="center">
   <img 
@@ -129,7 +129,7 @@ Industry Cost Curve : Based on available data (market demand, market price and e
   />
 </p>
 
-6. Supporting Slide : Overhead Costs Analysis
+6. **Supporting Slide : Overhead Costs Analysis**
 
 <p align="center">
   <img 
@@ -139,7 +139,7 @@ Industry Cost Curve : Based on available data (market demand, market price and e
   />
 </p>
 
-7. Revenue, COGS, Overhead Costs breakdown 
+7. **Revenue, COGS, Overhead Costs breakdown **
 
 <p align="center">
   <img 
@@ -149,7 +149,7 @@ Industry Cost Curve : Based on available data (market demand, market price and e
   />
 </p>
 
-8. Forecast
+8. **Forecast, Impact & Financial Support**
 
 <p align="center">
   <img 
@@ -159,18 +159,8 @@ Industry Cost Curve : Based on available data (market demand, market price and e
   />
 </p>
 
-9. Action Plan
+9. **Action Plan**
 
-- What?
+- For 2013-14 Actual V/s. Budget reporting data, we can use the COGS savings ($3M) and the Revenue collection ($16M) to use as a buffer for 2014-15.
 
-  - 2014-15 Forecast indicates high Plant Maintenance and Operation Costs. As well as a significant drop in revenue stream and an increase in Overhead Costs.
-
-- Why?
-
-  - Increasing water demand, household and commercially, is causing a great stress to Machinery and Pump Failures results in a temporary halt / delay in production.
-
-- How?
-
-  - For 2013-14 Actual V/s. Budget reporting data, we can use the COGS savings ($3M) and the Revenue collection ($16M) to use as a buffer for 2014-15.
-
-  - Another additional $15-20M could be spare as a cushion to handle the impact in 2014-15 for Kootha and Surjek Plants. (The forecasting data suggests that our EBIT (Earning Before Interest & Tax) will break-even for Jutik Plant).
+- Another additional $15-20M could be spare as a cushion to handle the impact in 2014-15 for Kootha and Surjek Plants. (The forecasting data suggests that our EBIT (Earning Before Interest & Tax) will break-even for Jutik Plant).
