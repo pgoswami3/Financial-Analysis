@@ -91,15 +91,17 @@ Surjek |	$21,086,188.80 |	$217,042,677.14	| 2,064.70	| $115.33
 Jutik	| $7,460,267.66	| $73,305,778.20	| 2,096.68	| $38.52
 Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
 
+## Presentation
+
+1. Problem Statement & Overview of SW Corps
+
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/wmp.png"
-    width="2050" 
-    height="400" 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/preso/Slide-1.png"
+    width="1850" 
+    height="650" 
   />
 </p>
 
-
-## Presentation
 
 
