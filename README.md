@@ -2,6 +2,7 @@
 Financial Analysis for a case study (Southern Water Corp) and assesing Revenues, Production Cost, Other Production Costs, Assets, EBIT
 
 - [Problem Statement](#problem-statement)
+- [Definitions](#definitions)
 - [Value Driver Tree](#value-driver-tree)
 - [Charts & Numbers](#charts-&-numbers)
 - [Presentation](#presentation)
@@ -25,6 +26,17 @@ The management has asked to provide accountability and a detailed breakdown for 
 - Year-to-Date Variance Analysis for actual and budget figures
 - Cost to produce (CTP) drivers
 
+## Definitions
+
+Definitions | SW Corp
+--- | ---
+Revenues |	Revenues generated through Sales of Water to Residential, Public and Private Corporations and Individuals
+Production Cost |	Costs associated with producing desalinated water
+Other Production Costs | Costs associated with 'Other' Production Costs as opposed to pure desalination watering costs
+Assets	| Assets owned by Southern Water Corp Financials. Assets = Owners Equity + Liabilities
+EBIT |	Earnings Before Interest and Tax. Calculated as Revenues - COGS (Production Costs) - Overheads 
+Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overheads) / Total Water Production
+
 ## Value Driver Tree
 
 - [Value Driver Tree for Revenue](https://github.com/pgoswami3/Financial-Analysis/blob/main/ValueDriverTrees.md#Revenue)
@@ -43,7 +55,7 @@ The management has asked to provide accountability and a detailed breakdown for 
   />
 </p>
 
-- [Line Charts, Variance Analysis for Costs [in detail for individual plants]](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs)
+- [Line Charts, Variance Analysis for Cost-to-Produce [in detail for individual plants]](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs)
 
 
 <p align="center">
@@ -68,33 +80,50 @@ The management has asked to provide accountability and a detailed breakdown for 
 
 ## Excel Workbook
 
+2013-14 Cost Centre Actuals
 [Excel Workbook Snapshot 1](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/costcentre-actuals.png)
 
+2013-14 Financial Actuals
 [Excel Workbook Snapshot 2](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/financial-actuals.png)
 
-Definitions | SW Corp
---- | ---
-Revenues |	Revenues generated through Sales of Water to Residential, Public and Private Corporations and Individuals
-Production Cost |	Costs associated with producing desalinated water
-Other Production Costs | Costs associated with 'Other' Production Costs as opposed to pure desalination watering costs
-Assets	| Assets owned by Southern Water Corp Financials. Assets = Owners Equity + Liabilities
-EBIT |	Earnings Before Interest and Tax. Calculated as Revenues - COGS (Production Costs) - Overheads 
-Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overheads) / Total Water Production
+2014-15 Cost Centre Forecast
+[Excel Workbook Snapshot 3](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/financial-forecast.png)
+
+2014-15 Financial Forecast
+[Excel Workbook Snapshot 4](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/financial-forecast.png)
 
 
-## Economies
+## Forecast
 
-- As we have numbers for 2013-14 Actual Costs V/s. Budgeted Costs, we can do find the variance where we can find major dent in our expenses
+- As we have numbers for 2013-14 Actual Costs V/s. Budgeted Costs, we can find the [variance](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs) to find major expenses/cost. While based on Forecast data for 2014-15 we can project rolling year-to-date cost-to-produce $/Mega-Litre of water for all the plants
 
 <p align="center">
   <img 
-    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/variance.png"
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/ctp-forecast.png"
     width="1850" 
     height="400" 
   />
 </p>
 
-- Projecting 
+
+Industry Cost Curve : Based on available data (market demand, market price and excess capacity), the cost needed of the next unit unrequired capacity to supply the market cost of the last required incremental capacity to supply the market would be.
+
+Forecast Cost to Produce Pseudo Cost Curve
+
+Cost to Produce	| Total Production Costs (Production Costs, Other Production Costs)	| Total Overhead Costs	| Total Water Production (Mega-Litres)	| $/Mega-Litre
+--- | --- | --- | --- | --- 
+Kootha |	$8,809,523.74	| $65,811,073.32	| 1,328.89	| $56.15
+Surjek |	$21,086,188.80 |	$217,042,677.14	| 2,064.70	| $115.33
+Jutik	| $7,460,267.66	| $73,305,778.20	| 2,096.68	| $38.52
+Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
+
+<p align="center">
+  <img 
+    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/wmp.png"
+    width="2050" 
+    height="400" 
+  />
+</p>
 
 
 ## Presentation
