@@ -1,5 +1,5 @@
 # Financial-Analysis
-Financial Analysis for a case study (Southern Water Corp) and assesing Revenues, Production Cost, Other Production Costs, Assets, EBIT
+Financial Analysis for a case study (Southern Water Corp) and assessing Revenues, Production Cost, Other Production Costs, Assets, EBIT
 
 - [Problem Statement](#problem-statement)
 - [Definitions](#definitions)
@@ -9,20 +9,20 @@ Financial Analysis for a case study (Southern Water Corp) and assesing Revenues,
 
 ## Problem Statement
 
-What opportunity exists for Southern Water Corporation to increase revenue by studying Cost to Produce water and resolve sizable discrepancies in the budget for the calendar year?
+What opportunity exists for Southern Water Corporation to increase revenue by studying the Cost to Produce water and resolve sizable discrepancies in the calendar year's budget?
 
 ## Context
-Southern Water Corp is facing an increase in demand of desalinated water for public, private and residential consumption. Due to the continual demand, the revenues has surged and management is looking into areas of improvement. SW Corp has 3 functional plants (Kootha, Surjek and Jutik) and due to constant demand, the plants are functioning above and beyond.
+Southern Water Corp faces an increase in demand for desalinated water for public, private, and residential consumption. Due to the continual demand, the revenues have surged, and management is looking into improvement areas. SW Corp has three functional plants (Kootha, Surjek, and Jutik), and due to constant demand, the plants are functioning above and beyond.
 
-The management has asked to provide accountability and a detailed breakdown for Cost to Produce (CTP) water. Financial Business Unit (FBU) has been asked to look into Year-to-Date Variance Analysis to find sizable discrepancies in budget figures and present high level aggregation of the financial data.
+The management has asked to provide accountability and a detailed breakdown for Cost to Produce (CTP) water. Financial Business Unit (FBU) has been asked to look into Year-to-Date Variance Analysis to find sizable discrepancies in budget figures and present high-level aggregation of the financial data.
 
 ## Criteria for success
 - Encounter sizable discrepancies between the actual and budget figures.
 - Finding accountability in Cost to Produce water (CTP) drivers.
-- Detect unusual figures in the business’ financial health reports
+- Detect unusual figures in the business' financial health reports
 
 ## Scope of solution space
-- Revenue, Production Costs, Earning before interest and tax (EBIT), Depreciation and Amortization.
+- Revenue, Production Costs, Earning before interest, and tax (EBIT), Depreciation, and Amortization.
 - Year-to-Date Variance Analysis for actual and budget figures
 - Cost to produce (CTP) drivers
 
@@ -67,7 +67,7 @@ Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overhead
 [Excel Workbook Snapshot 4](https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/financial-forecast.png)
 
 
-## Presentation
+## Slide Deck
 
 1. **Problem Statement & Overview of SW Corps**
 
@@ -79,7 +79,7 @@ Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overhead
   />
 </p>
 
-2. As we have numbers for 2013-14 Actual Costs V/s. Budgeted Costs, we can find the [variance](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs) to find major expenses/cost. While based on Forecast data for 2014-15 we can project rolling year-to-date cost-to-produce $/Mega-Litre of water for all the plants
+2. As we have numbers for 2013-14 Actual Costs V/s. Budgeted Costs, we can find the [variance](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs) to find high expenses/cost. While based on Forecast data for 2014-15, we can project rolling year-to-date cost-to-produce $/Mega-Litre of water for all the plants
 
 <p align="center">
   <img 
@@ -91,7 +91,7 @@ Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overhead
 
 3. **Cost to Produce Pseudo Cost Curve**
 
-Industry Cost Curve : Based on available data (market demand, market price and excess capacity), the cost needed of the next unit unrequired capacity to supply the market cost of the last required incremental capacity to supply the market would be.
+Industry Cost Curve: Based on available data (market demand, market price, and excess capacity), the cost needed for the next unit unrequired ability to supply the market cost of the last required incremental capacity to provide the market would be.
 
 Cost to Produce	| Total Production Costs (Production Costs, Other Production Costs)	| Total Overhead Costs	| Total Water Production (Mega-Litres)	| $/Mega-Litre
 --- | --- | --- | --- | --- 
@@ -109,7 +109,7 @@ Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
   />
 </p>
 
-4. **Supporting Slide : Revenue Analysis**
+4. **Supporting Slide: Revenue Analysis**
 
 <p align="center">
   <img 
@@ -119,7 +119,7 @@ Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
   />
 </p>
 
-5. **Supporting Slide : COGS Analysis**
+5. **Supporting Slide: COGS Analysis**
 
 <p align="center">
   <img 
@@ -129,7 +129,7 @@ Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
   />
 </p>
 
-6. **Supporting Slide : Overhead Costs Analysis**
+6. **Supporting Slide: Overhead Costs Analysis**
 
 <p align="center">
   <img 
@@ -163,4 +163,4 @@ Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
 
 - For 2013-14 Actual V/s. Budget reporting data, we can use the COGS savings ($3M) and the Revenue collection ($16M) to use as a buffer for 2014-15.
 
-- Another additional $15-20M could be spare as a cushion to handle the impact in 2014-15 for Kootha and Surjek Plants. (The forecasting data suggests that our EBIT (Earning Before Interest & Tax) will break-even for Jutik Plant).
+- Another additional $15-20M could be spare as a cushion to handle the impact in 2014-15 for Kootha and Surjek Plants. (The forecasting data suggests that our EBIT (Earnings Before Interest & Tax) will break-even for Jutik Plant).
