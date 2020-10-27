@@ -47,35 +47,9 @@ Cost to Produce Per Litre	| (Production Cost + Other Production Costs + Overhead
 
 - [Line & Waterfall Chart for Revenue [in detail for individual plants]](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Revenue)
 
-<p align="center">
-  <img 
-    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/revenue(all).png"
-    width="1850" 
-    height="300" 
-  />
-</p>
-
 - [Line Charts, Variance Analysis for Cost-to-Produce [in detail for individual plants]](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#Costs)
 
-
-<p align="center">
-  <img 
-    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/ctp(all).png"
-    width="1850" 
-    height="300" 
-  />
-</p>
-
 - [Line & Waterfall Chart for EBIT [in detail for individual plants]](https://github.com/pgoswami3/Financial-Analysis/blob/main/Charts&Numbers.md#EBIT)
-
-
-<p align="center">
-  <img 
-    src="https://github.com/pgoswami3/Financial-Analysis/blob/main/images/readme-images/ebit(all).png"
-    width="1850" 
-    height="400" 
-  />
-</p>
 
 
 ## Excel Workbook
