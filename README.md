@@ -12,7 +12,7 @@ Financial Analysis for a case study (Southern Water Corp) and assesing Revenues,
 What opportunity exists for Southern Water Corporation to increase revenue by studying Cost to Produce water and resolve sizable discrepancies in the budget for the calendar year?
 
 ## Context
-Southern Water Corp is facing an increase in demand of desalinated water for public, private and residential consumption. Due to the continual demand, the revenues has surged and management is looking into areas of improvement. 
+Southern Water Corp is facing an increase in demand of desalinated water for public, private and residential consumption. Due to the continual demand, the revenues has surged and management is looking into areas of improvement. SW Corp has 3 functional plants (Kootha, Surjek and Jutik) and due to constant demand, the plants are functioning above and beyond.
 
 The management has asked to provide accountability and a detailed breakdown for Cost to Produce (CTP) water. Financial Business Unit (FBU) has been asked to look into Year-to-Date Variance Analysis to find sizable discrepancies in budget figures and present high level aggregation of the financial data.
 
