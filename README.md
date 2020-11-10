@@ -143,7 +143,7 @@ Overall	| $37,355,980.20 |	$356,159,528.66	| 5,490.26	| $71.68
   />
 </p>
 
-7. **Revenue, COGS, Overhead Costs breakdown **
+7. **Revenue, COGS, Overhead Costs breakdown**
 
 <p align="center">
   <img 
